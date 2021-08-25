@@ -28,5 +28,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 Integrantes:
-Estudiante 1: Camilo Mora
-Estudiante 2: Karen Vera
+Estudiante 1: Camilo Esteban Mora Gómez - c.morag@uniandes.edu.co - 202112176
+Estudiante 2: Karen Tatiana Vera Hernández - k.verah@uniandes.edu.co - 202113341
